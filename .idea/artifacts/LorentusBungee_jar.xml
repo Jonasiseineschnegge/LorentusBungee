@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LorentusBungee:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LorentusBungee_jar</output-path>
+    <root id="archive" name="LorentusBungee.jar">
+      <element id="module-output" name="LorentusBungee" />
+    </root>
+  </artifact>
+</component>
